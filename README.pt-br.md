@@ -1,6 +1,6 @@
 # 2248
 
-Um jogo desenvolvido com C usando a biblioteca gráfica [Allegro5](https://liballeg.org/). 
+Um jogo desenvolvido com C usando a biblioteca gráfica [Allegro5](https://liballeg.org/). Esse projeto foi desenvolvido no meu primeiro semestre na Universidade Federal de Santa Maria onde estudo TI.
 
 ![](assets/img/2248.gif)
 

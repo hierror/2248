@@ -1,6 +1,6 @@
 # 2248
 
-A game developed in C with the graphical library [Allegro5](https://liballeg.org/). 
+A game developed in C with the graphical library [Allegro5](https://liballeg.org/). This project was developed in my first semester in the Universidade Federal de Santa Maria where I study IT.
 
 ![](assets/img/2248.gif)
 
